@@ -74,4 +74,4 @@ console.log(makeModel);
 console.log(mileage);
 
 const city2 = "New York";
-console.log("I live in " + city2);``
+console.log("I live in " + city2);
